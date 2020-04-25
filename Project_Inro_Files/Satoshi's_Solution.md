@@ -1,0 +1,7 @@
+In 2008, Satoshi Nakamoto, solved a puzzle of digital cash and in doing so he created a new architecture structure Blockchain which is much more than a technology of finance.
+
+The Bitcoin whitepaper hold everyone in awe and thus waves of Cryptocurrency, Smart-Contracts followed by the implementation of bitcoin.
+
+A Trustless Trust was created.Money is the most universal efficient system of trust created ever in the system.As the Economic crisis of 2008 devasted every systems and financial capitals, six weeks after that Bitcoin whitepaper was released as it was too save this situation.The introduction paper says very less about the situation and begins with the microlevel problem of trust in electronic payments.The motivation was Bitcoin: A Currency that allows trusted electronic payments without the involvement of government.At general level it rests on three foundations : cryptography, digital cash and distributed systems.
+
+There is no actual coins on Bitcoin ledger.What we call coin is formally a chain of digital signatures representing verified transactions.Bitcoin was decentralized in a way that the major earlier digital cash systems were not.It used P2P network for validation of nodes.Bitcoin made digital cash a reality.Mining began and dozens , hundreds and thousands of developers started building software around the platform Satoshi provided.Price went high up and a new currency was born and became the best of its kind.
